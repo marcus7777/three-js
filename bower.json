@@ -1,0 +1,13 @@
+{
+  "name": "three-js",
+  "version": "1.0.0",
+  "description": "three.js wrapper",
+  "main": "three-js.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "three.js": "mrdoob/three.js"
+  }
+}
